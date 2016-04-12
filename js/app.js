@@ -180,7 +180,6 @@ Form.prototype={
     }
 };
 
-
 form_item.push(new Form(data_name));
 form_item.push(new Form(data_password));
 form_item.push(new Form(data_repeat));
